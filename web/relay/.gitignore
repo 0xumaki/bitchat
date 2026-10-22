@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# runtime state (chat history, presence cache)
+data/
+
+# logs
+*.log
